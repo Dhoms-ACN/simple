@@ -5,14 +5,19 @@
 
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>simple</groupId>
-  <artifactId>simple</artifactId>
+  <groupId>training.mave.quick</groupId>
+  <artifactId>simple-example</artifactId>
   <packaging>jar</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.1-SNAPSHOT</version>
   <properties>
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
   </properties>
   
-  <name>Replace for simple</name>
+  <name>Simple Example</name>
+  <description>Longer description of the project</description>
+  <inceptionYear>2022</inceptionYear>
+  <!-- <build>
+    <finalName>simple</finalName>
+  </build> -->
 </project>
